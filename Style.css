@@ -1,0 +1,32 @@
+/* CSS file */
+/* ---theLooks */
+/* The vvisualization  */
+/* Drapes--Carpet--Paint  */
+
+.navContainer{
+    border: solid red;
+    background-color:yellow;
+    height:50px;
+}
+.titleContainer{
+    border:solid blue;
+}
+.picture{
+    border:solid purple;
+    height: 300px;
+    width: 700px;
+}
+.Ingredientscontainer{
+    border:solid green;
+    height:65px;
+}
+.Preparationcontainer{
+    border:solid coral;
+    height:80px;
+}
+
+ /* .section{ 
+    border:solid magenta;
+    margin: 2em;
+    display:flex; 
+} */
